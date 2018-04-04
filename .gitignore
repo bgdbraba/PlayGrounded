@@ -1,0 +1,8 @@
+logs
+playgrounded/project
+playgrounded/target
+target
+tmp
+dist
+.cache
+.idea
